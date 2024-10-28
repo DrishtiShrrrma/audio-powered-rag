@@ -3,5 +3,6 @@ langchain_community
 langchain_groq
 chromadb
 sentence_transformers
+deep_translator
 git+https://github.com/huggingface/transformers.git
 TTS
