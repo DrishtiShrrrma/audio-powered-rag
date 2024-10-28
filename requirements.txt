@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_groq
+chromadb
+sentence_transformers
+git+https://github.com/huggingface/transformers.git
+TTS
