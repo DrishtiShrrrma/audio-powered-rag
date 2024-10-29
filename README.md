@@ -1,5 +1,5 @@
 to do: 
-- make it multilingual
+- make it multilingual - https://huggingface.co/sentence-transformers/LaBSE
 - suggest refined questions
 - streamlit app
 
